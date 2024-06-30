@@ -3,5 +3,5 @@ export default function DashboardPage() {
     <div>
       <h1>DashboardPage</h1>
     </div>
-  );
+  )
 }
